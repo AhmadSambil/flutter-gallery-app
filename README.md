@@ -62,7 +62,6 @@ This project demonstrates full-stack integration between **Flutter frontend** an
   <img src="assets/images/WhatsApp Image 2026-06-13 at 5.47.19 PM.jpeg" width="250"/>
   <img src="assets/images/WhatsApp Image 2026-06-13 at 5.47.17 PM.jpeg" width="250"/>
   <img src="assets/images/WhatsApp Image 2026-06-13 at 5.47.18 PM.jpeg" width="250"/>
-  <img src="assets/images/WhatsApp Image 2026-06-13 at 5.47.18 PM (1).jpeg" width="250"/>
 </p>
 
 ---
